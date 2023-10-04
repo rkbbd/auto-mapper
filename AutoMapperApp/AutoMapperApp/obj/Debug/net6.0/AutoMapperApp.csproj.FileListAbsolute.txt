@@ -1,0 +1,13 @@
+D:\project\AutoMapperApp\AutoMapperApp\bin\Debug\net6.0\AutoMapperApp.deps.json
+D:\project\AutoMapperApp\AutoMapperApp\bin\Debug\net6.0\AutoMapperApp.dll
+D:\project\AutoMapperApp\AutoMapperApp\bin\Debug\net6.0\ref\AutoMapperApp.dll
+D:\project\AutoMapperApp\AutoMapperApp\bin\Debug\net6.0\AutoMapperApp.pdb
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.GlobalUsings.g.cs
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.csproj.AssemblyReference.cache
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.AssemblyInfoInputs.cache
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.AssemblyInfo.cs
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.csproj.CoreCompileInputs.cache
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.dll
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\ref\AutoMapperApp.dll
+D:\project\AutoMapperApp\AutoMapperApp\obj\Debug\net6.0\AutoMapperApp.pdb
